@@ -1,0 +1,1 @@
+# Java-hw12-localization-configuration
