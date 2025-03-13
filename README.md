@@ -1,4 +1,4 @@
-# Java-hw12-localization-configuration
+#### **TASK**
 
 Napisać program, który pobiera długości trzech boków trójkąta i w zależności od
 ustawień w pliku config.properties liczby albo jego obwód albo pole (wzór Herona).
